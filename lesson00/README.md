@@ -1,9 +1,4 @@
-# Introduction to Java test frameworks
+# Lesson 0
 
-## Lesson 0 - Empty project
-
-## Lesson 1 - Create test class
-
-## Lesson 2 - Create test method
-
-## Lesson 3 - Write assertion
+* This is a base project that has a basic calculator program that can sum up two integers.
+* Try out the maven command to run test: ``` mvn test```

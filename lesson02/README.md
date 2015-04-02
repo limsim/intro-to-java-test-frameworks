@@ -1,5 +1,5 @@
-# Lesson 1
+# Lesson 2
 
-* Create a test class
-  * Postfix the name of the test class with "Test" e.g. CalculatorTest
-* Try renaming the test class to end with something other than Test e.g. CalculatorCheck and run the test
+* Create a test method in your test class
+* Execute ```mvn test```
+  * What do you see in the output?

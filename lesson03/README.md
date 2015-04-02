@@ -1,5 +1,5 @@
-# Lesson 2
+# Lesson 3
 
-* Create a test method in your test class
-* Execute ```mvn test```
-  * What do you see in the output?
+* Write an assertion to check a behaviour of the Calculator.add() method
+* Change the assertion so that the actual result doesn't match the expected result
+  * What does the output say?
