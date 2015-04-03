@@ -7,3 +7,11 @@
 ## Lesson 2 - Create test method
 
 ## Lesson 3 - Write assertion
+
+## Lesson 4 - Generate HTML report
+
+## Lesson 5 - Test hooks
+
+## Lesson 6 - Write test using TestNG
+
+## Lesson 7 - TestNG hooks
