@@ -5,6 +5,6 @@ public class CalculatorTest {
 
     @Test
     public void addReturnsSumOfTwoNumbers() throws Exception {
-        Assert.assertEquals(new Calculator().add(1,1), 2, "Please learn to count!");
+        Assert.assertEquals(Calculator.add(1,1), 2, "Please learn to count!");
     }
 }
