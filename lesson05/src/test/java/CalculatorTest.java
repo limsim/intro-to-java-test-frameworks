@@ -1,14 +1,17 @@
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 public class CalculatorTest {
 
-    private Calculator calculator;
+    private static Calculator calculator;
 
-    @Before
-    public void setUp() throws Exception {
+    @BeforeClass
+    public static void createCalculator() throws Exception {
         calculator = new Calculator();
+    }
+
+    @After
+    public void resetCalculator() {
+        calculator.reset();
     }
 
     @Test
